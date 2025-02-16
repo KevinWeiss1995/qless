@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: qless
+Version: 0.1.0
+Summary: Q-Less game solver.
+Home-page: https://github.com/KevinWeiss1995/qless
+Author: Kevin Weiss
+Author-email: kjweiss1995@gmail.com
+Requires-Python: >=3.7
+Requires-Dist: numpy>=1.20.0
+Requires-Dist: typing-extensions>=4.0.0

@@ -1,0 +1,2 @@
+[console_scripts]
+qless = qless.cli:main

@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/qless.egg-info/PKG-INFO
+src/qless.egg-info/SOURCES.txt
+src/qless.egg-info/dependency_links.txt
+src/qless.egg-info/entry_points.txt
+src/qless.egg-info/requires.txt
+src/qless.egg-info/top_level.txt
+tests/test_board.py
+tests/test_game.py
+tests/test_utils.py
+tests/test_word_finder.py
